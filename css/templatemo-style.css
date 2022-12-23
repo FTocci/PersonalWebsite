@@ -9,7 +9,7 @@ https://templatemo.com/tm-458-lavish
 body
 {
 	background: #000000;
-	color: #999;
+	color: rgb(255, 255, 255);
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
@@ -180,8 +180,8 @@ h1,h2,h3,h4,h5
 	}
 #home h1
     {
-        border: 2px solid #D43F52;
-        color: #D43F52;
+        border: 2px solid #8a8a8a;
+        color: #ffffff;
         display: inline-block;
         letter-spacing: 6px;
         padding: 25px 35px;
@@ -206,7 +206,7 @@ h1,h2,h3,h4,h5
     }
 #home .btn:hover
     {
-        background: #D43F52;
+        background: #8a8a8a;
         border-color: transparent;
     }
 /* end home */
@@ -305,7 +305,7 @@ h1,h2,h3,h4,h5
     }
 #portfolio .portfolio-thumb .portfolio-overlay
     {
-        background: #D43F52;
+        background: #2c2c2c;
         top: 0;
         left: 0;
         right: 0;
