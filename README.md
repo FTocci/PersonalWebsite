@@ -1,4 +1,3 @@
-# Personal website
-#### Federico Tocci's Portfolio
+# Federico Tocci's Portfolio
 
-Folders with secret information :)
+#### Folders with secret information :)
